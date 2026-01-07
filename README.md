@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently studying **Computer Engineering** at **Nişantaşı University**.
-- 💻 I love writing clean code in **Java** and **C++**.
+- 💻 I love writing clean code in **Java** and **Flutter**.
 - 🚀 Working on desktop applications and backend systems.
 - ⚡ Fun fact: I prefer **Dark Mode** in everything!
 
