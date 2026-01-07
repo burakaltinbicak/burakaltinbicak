@@ -58,3 +58,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=burakaltinbicak&style=flat-square&label=Profile+Views&color=blue" alt="profile views" />
 </div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=burakaltinbicak&style=flat-square&label=Profile+Views&color=blue" alt="profile views" />
+</div>
