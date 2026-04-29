@@ -1,57 +1,76 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+M%C3%BCsl%C3%BCm+Burak;Computer+Engineering+Student;Java+%26+Backend+Developer;Always+Learning+New+Techs" alt="Typing SVG" />
+
+```
+███████████████████████████████████████████████████████████
+█                                                         █
+█   müslüm burak altınbıçak  ·  backend & mobile dev     █
+█                                                         █
+███████████████████████████████████████████████████████████
+```
+
 </div>
-
-<div align="center">
-  <a href="mailto:mslmbrkaltnbcak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/brkbrk/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br />
-
-### 👨‍💻 About Me
-
-- 🎓 I'm currently studying **Computer Engineering** at **Nişantaşı University**.
-- 💻 I love writing clean code in **Java** and **Flutter**.
-- 🚀 Working on desktop applications and backend systems.
-- ⚡ Fun fact: I prefer **Dark Mode** in everything!
 
 ---
 
-### 🛠️ Tech Stack
+## whoami
+
+Computer Engineering student @ **Nişantaşı University**.  
+I build backend systems with **Java** and cross-platform apps with **Flutter/Dart**.  
+Clean code, dark mode, no exceptions.
+
+```java
+public class Burak {
+    String[] languages  = { "Java", "Dart", "JavaScript" };
+    String[] frameworks = { "Flutter", "Spring Boot" };
+    String   currently  = "Building things that actually work.";
+    boolean  darkMode   = true; // always
+}
+```
+
+---
+
+## stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Java · Dart · JavaScript |
+| **Mobile/UI** | Flutter |
+| **Tools** | Git · GitHub · IntelliJ IDEA · VS Code |
+| **Web** | HTML5 · CSS3 |
+
+---
+
+## stats
+
 <div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=burakaltinbicak&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_rank=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakaltinbicak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
 </div>
 
-<br />
-
-### 📊 GitHub Stats
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=burakaltinbicak&theme=tokyonight&show_icons=true&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=BF616A&text_color=ECEFF4)](https://github.com/burakaltinbicak)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakaltinbicak&layout=compact&theme=tokyonight&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=ECEFF4)](https://github.com/burakaltinbicak)
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=burakaltinbicak&theme=tokyonight&hide_border=true&background=2E3440&ring=88C0D0&fire=BF616A&currStreakLabel=88C0D0)](https://github.com/burakaltinbicak)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=burakaltinbicak&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://github.com/burakaltinbicak)
 
 </div>
 
-<br />
+---
+
+## contact
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=burakaltinbicak&style=flat-square&label=Profile+Views&color=blue" alt="profile views" />
+
+[![Email](https://img.shields.io/badge/mslmbrkaltnbcak%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mslmbrkaltnbcak@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin%2Fin%2Fbrkbrk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brkbrk/)
+
+</div>
+
+---
+
+<div align="center">
+<sub>
+<img src="https://komarev.com/ghpvc/?username=burakaltinbicak&style=flat-square&color=58A6FF&label=views" />
+</sub>
 </div>
